@@ -1,4 +1,4 @@
-## Hi there 👋
+[## Hi there 👋
 
 <!--
 
@@ -10,3 +10,4 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+](https://raw.githubusercontent.com/LikhonAI/likhonai.github.io/refs/heads/main/Black Gold Vintage Luxury Jewelry Logo (1).png)
